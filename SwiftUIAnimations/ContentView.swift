@@ -15,6 +15,9 @@ struct ContentView: View {
             
             AnimatedImage()
                 .tabItem { Image(systemName: "2.circle") }
+            
+            AnimatedSpinner()
+                .tabItem { Image(systemName: "3.circle") }
         }
     }
 }

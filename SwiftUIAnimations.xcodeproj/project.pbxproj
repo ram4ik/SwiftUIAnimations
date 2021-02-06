@@ -13,6 +13,7 @@
 		1D70C5C925CED55200DFA6C2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D70C5C825CED55200DFA6C2 /* Preview Assets.xcassets */; };
 		1D70C5D225CED58C00DFA6C2 /* AnimatedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D70C5D125CED58C00DFA6C2 /* AnimatedRectangle.swift */; };
 		1D70C5D625CEFBCE00DFA6C2 /* AnimatedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D70C5D525CEFBCE00DFA6C2 /* AnimatedImage.swift */; };
+		1D70C5DB25CF009E00DFA6C2 /* AnimatedSpinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D70C5DA25CF009E00DFA6C2 /* AnimatedSpinner.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D70C5CA25CED55200DFA6C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D70C5D125CED58C00DFA6C2 /* AnimatedRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedRectangle.swift; sourceTree = "<group>"; };
 		1D70C5D525CEFBCE00DFA6C2 /* AnimatedImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedImage.swift; sourceTree = "<group>"; };
+		1D70C5DA25CF009E00DFA6C2 /* AnimatedSpinner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedSpinner.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1D70C5C725CED55200DFA6C2 /* Preview Content */,
 				1D70C5D125CED58C00DFA6C2 /* AnimatedRectangle.swift */,
 				1D70C5D525CEFBCE00DFA6C2 /* AnimatedImage.swift */,
+				1D70C5DA25CF009E00DFA6C2 /* AnimatedSpinner.swift */,
 			);
 			path = SwiftUIAnimations;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D70C5D625CEFBCE00DFA6C2 /* AnimatedImage.swift in Sources */,
+				1D70C5DB25CF009E00DFA6C2 /* AnimatedSpinner.swift in Sources */,
 				1D70C5C425CED54E00DFA6C2 /* ContentView.swift in Sources */,
 				1D70C5D225CED58C00DFA6C2 /* AnimatedRectangle.swift in Sources */,
 				1D70C5C225CED54E00DFA6C2 /* SwiftUIAnimationsApp.swift in Sources */,

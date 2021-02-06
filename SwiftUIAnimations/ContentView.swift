@@ -12,6 +12,9 @@ struct ContentView: View {
         TabView {
             AnimatedRectangle()
                 .tabItem { Image(systemName: "1.circle") }
+            
+            AnimatedImage()
+                .tabItem { Image(systemName: "2.circle") }
         }
     }
 }
